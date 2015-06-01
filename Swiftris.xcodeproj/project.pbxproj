@@ -100,11 +100,11 @@
 				6C0F70921B1CE1FE00798D63 /* AppDelegate.swift */,
 				6C0F70961B1CE1FE00798D63 /* GameScene.swift */,
 				6C0F70981B1CE1FE00798D63 /* GameViewController.swift */,
+				6C0F70C61B1D0FCF00798D63 /* Array2D.swift */,
 				6C0F709A1B1CE1FE00798D63 /* Main.storyboard */,
 				6C0F709D1B1CE1FE00798D63 /* Images.xcassets */,
 				6C0F709F1B1CE1FE00798D63 /* LaunchScreen.xib */,
 				6C0F70901B1CE1FE00798D63 /* Supporting Files */,
-				6C0F70C61B1D0FCF00798D63 /* Array2D.swift */,
 			);
 			path = Swiftris;
 			sourceTree = "<group>";
